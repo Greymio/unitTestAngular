@@ -1,2 +1,2 @@
 # unitTestAngular
-Test Class, Pipe with Mock and Spy
+Test Class, Pipe and component with Spy and TestBed
